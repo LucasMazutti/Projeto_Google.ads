@@ -2,8 +2,8 @@
 Este projeto simula um pipeline ETL (Extract, Transform, Load) completo utilizando dados de campanhas publicitárias do Google Ads, com o objetivo de gerar insights estratégicos sobre desempenho de anúncios, palavras-chave e conversão de leads.
 
 🧩 Etapas do Processo ETL
-1. 📥 Extração (Extract)
- - Fonte: Dados públicos coletados do Kaggle no formato .csv.
+1. 📥 Extração (Extract) link no kaggle [ https://www.kaggle.com/datasets/nayakganesh007/google-ads-sales-dataset ]
+ - Fonte: Dados públicos coletados do Kaggle no formato .csv. 
 - Conversão para .xlsx para facilitar a visualização e verificação inicial dos dados no Excel.
 
 2. 🧹 Transformação (Transform)
